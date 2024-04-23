@@ -1,0 +1,4 @@
+Primeiro passo:
+Crie um ambiente virtual
+Use o comando (virtualenv nome do seu diretório)
+Substitua o “nome do seu diretório” pelo nome da pasta onde será criado o ambiente virtual
