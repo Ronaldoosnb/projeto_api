@@ -12,3 +12,6 @@ Instalando Flask
 
 Primeiro passo:
 instale o flask no prompt de comando utilizando o comando (pip install Flask)
+
+Segundo passo:
+verificando instalação do flask utilizando o seguinte comando (flask --version)
