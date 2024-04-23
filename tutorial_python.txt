@@ -15,3 +15,8 @@ Segundo passo:
 localize o instalador e clique duas vezes sobre ele
 assim que o instalador abrir clique em adicionar o python ao PATH
 e install now
+
+Terceiro passo:
+após a instalação verifique a instalação
+abra o prompt de comando do windowns e de o comando(python --version)
+isso irá exibir a versão que acabou de instalar do python
