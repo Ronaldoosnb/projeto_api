@@ -1,0 +1,4 @@
+O que é python
+Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. Reconhecida por sua
+sintaxe simples e legibilidade, é amplamente utilizada em desenvolvimento web, científico, análise de dados,
+automação e muito mais. Sua comunidade ativa e vasta biblioteca de módulos contribuem para sua popularidade e versatilidade.
