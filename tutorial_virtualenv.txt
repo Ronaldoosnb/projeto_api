@@ -6,3 +6,9 @@ Substitua o “nome do seu diretório” pelo nome da pasta onde será criado o 
 Segundo passo: 
 Ative o virtualenv
 Utilize o seguinte comando (nome_do_seu_ambiente\Scripts\activate)
+
+
+Instalando Flask
+
+Primeiro passo:
+instale o flask no prompt de comando utilizando o comando (pip install Flask)
