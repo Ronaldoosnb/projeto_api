@@ -10,3 +10,8 @@ Primeiro passo:
 acesse o site oficial do python (Python.org)
 lá aparecerá um botão de download já para baixar o instalador da ultima versão
 clique em download para baixar o instalador da ultima versão
+
+Segundo passo:
+localize o instalador e clique duas vezes sobre ele
+assim que o instalador abrir clique em adicionar o python ao PATH
+e install now
