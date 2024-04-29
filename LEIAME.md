@@ -1,9 +1,9 @@
 funcionalidades dos arquivos:
-    app.py: código principal, reúne todas as rotas do projeto
+    app: código principal, reúne todas as rotas do projeto
 
-    ramdom_data.py: dicionário onde é armazenado todos os dados a serem utilizados pelo projeto
+    ramdom_data: dicionário onde é armazenado todos os dados a serem utilizados pelo projeto
 
-    funcoes.py: armazena todas as funções do projeto que são chamadas quando precisam
+    funcoes: armazena todas as funções do projeto que são chamadas quando precisam
 
 
 configurar repositório remoto:
